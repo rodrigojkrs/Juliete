@@ -35,11 +35,11 @@
             <input name="senha" type="password" required placeholder="Mínimo 8 Caracteres" minlength="8" class="col-sm-6 form-control"  id="senha">
         </div>
         
-<!--         <div class="form-group">
+         <div class="form-group">
             <label for="perfilacesso">Perfil Acesso:</label>
             <select name="perfilacesso" type="text" class="col-sm-6 form-control"  id="perfilacesso">          
              <option> Selecionar Acesso... </option>
-            <option value="USER">Usuário</option>-->
+            <option value="USER">Usuário</option>
             </select>
          </div>       
         <p></p>
